@@ -1,9 +1,9 @@
 *{
   font-family: Verdana;
   background-color: black;
+  text-align: center;
 }
 h1{
-  text-align: center;
   color:white;
   font-size: 21px;
 }
@@ -11,4 +11,13 @@ h1{
   font-size: 12px;
   color:seagreen;
   text-align: center;
+}
+#waterfall{
+  image-orientation: portrait;
+  align: center;
+}
+#camp{
+  font-size: 18px;
+  color: white;
+  padding-bottom: 20px;
 }
